@@ -2,3 +2,5 @@ target
 .idea
 *.iml
 password.txt
+*.txt
+*.gitignore
